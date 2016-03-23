@@ -9,4 +9,4 @@ permalink: >
   http://localhost:81/wordpress/sample-page/student-life/
 published: true
 ---
-Common introduction page shenanigans
+Common introduction page shenanigans. Welcome to you new Life as a student!!!
